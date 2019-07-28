@@ -201,6 +201,11 @@
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
 
+"@types/airtable@^0.5.4":
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/@types/airtable/-/airtable-0.5.4.tgz#69418a103609bf21584e577718fe4c3d2d30afcd"
+  integrity sha512-wQYFkp7ezcfBF5rAAbjZQEqsRafcazz4H8K+6JgFwVje3wp5ZV3E4HlC67KCB115ixPMNfEpn5JBBMIqycYXpg==
+
 "@types/body-parser@*":
   version "1.17.0"
   resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.17.0.tgz#9f5c9d9bd04bb54be32d5eb9fc0d8c974e6cf58c"

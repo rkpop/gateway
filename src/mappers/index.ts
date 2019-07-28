@@ -1,0 +1,1 @@
+export { AirtableRowToGatewayEvent } from "./airtable";
